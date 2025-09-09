@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# Freecodecamp Survey Form Project
+# Survey Form Project
 
 ---
 
